@@ -1,4 +1,4 @@
-# tryton-erp-resources
+# ryton-erp-resources
 List of Resources About Tryton
 
 About Tryton
@@ -25,6 +25,7 @@ Code
 ----
 * https://bitbucket.org/tryton/ --> Official Bitbucket Mirror
 * https://github.com/tryton --> Unofficial Github Mirror
+* http://hg.tryton.org/ --> Official Mercurial Repository
 * https://pypi.python.org/pypi?:action=browse&show=all&c=551 --> Pypi
 
 Companies
