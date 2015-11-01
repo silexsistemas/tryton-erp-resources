@@ -72,11 +72,27 @@ Projects
 --------
 * https://www.indiegogo.com/projects/sao-a-beautiful-web-client-for-tryton#/
 
+Translations
+------------
+* http://pootle.tryton.org/ --> Official Pootle Translation Server
+* https://www.transifex.com/meanmicio/Tryton/ --> Unofficial Transifex Translation
+
 Twitter
 -------
-* @silexsistemas
-* @tryton_erp --> Who?
-
+* @albertnan --> Albert Cervera y Areny: Board member of Tryton Foundation & co-owner of NaN·tic.
+* @brunovillasanti --> Bruno Villasanti: Developer at Thymbra
+* @cedrickrier --> Cédric Krier: Tryton leader, Python and Gentoo developer
+* @nan_tic --> Nan-Tic: Catalunian company dedicated to Tryton ERP and other open source solutions.
+* @nicoe --> Nicolas Évrard: Developer at B2CK and one of the main mantainers of Tryton.
+* @meanmicio --> Luis Falcón: Creator of GNU Health. Doctor and computer scientist.
+* @pokoli_srk --> Sergi Almacenas: Developer at Nan-Tic
+* @rvnovaes --> Roberto Novaes: Director of Sílex Sistemas. Python developer. Humble creator of this list.
+* @sebastianmarro --> Thymbra Director. Member of GNU Solidario. Board member of Tryton Foundation.
+* @SISalp --> Sisalp: Hosting for Odoo, Tryton and OperERP
+* @silexsistemas --> Brazilian company dedicated to ERP development and to Tryton translation to Portuguese.
+* @tryton_erp --> Many news, mainly in French, about Tryton: Thymbra is an IT company specialized in ERPs administration (Tryton - GNU Health) and Medical Informatics. 
+* @Thymbra_SA --> 
+* @zikzakmedia --> Free software implementation for small business.
 
 Videos
 ------
