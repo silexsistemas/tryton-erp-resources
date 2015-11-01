@@ -15,7 +15,7 @@ Tryton is a great and live project. But we fell it could use better public relat
 
 This document is an initiative to increase the awareness arround Tryton, and it started as a personal list of web links we have been collecting as references. We decided to publish this list to the broader community, hoping that it could be mantained and enlarged by common effort.
 
-Rules: The link should be about Tryton, its functionalities and its development process. The link can refer to persons, companies, documentation, code examples, repositories and any other Tryton Resource. Please check the list before sending your link to avoid duplicates. Please add to the link a little comment about its content. Try to put the link on the correct category. List the links alphabetically.
+Rules: The link should be about Tryton, its functionalities and its development process. The link can refer to persons, companies, documentation, code examples, repositories and any other Tryton Resource. Please check the list before sending your link to avoid duplicates. Please add to the link a little comment about its content. Try to put the link on the correct category. Put official links first. List the other links alphabetically.
 
 Official Website
 ----------------
@@ -23,24 +23,25 @@ Official Website
 
 Code
 ----
+* http://hg.tryton.org/ --> Official Mercurial Repository
 * https://bitbucket.org/tryton/ --> Official Bitbucket Mirror
 * https://github.com/tryton --> Unofficial Github Mirror
-* http://hg.tryton.org/ --> Official Mercurial Repository
 * https://pypi.python.org/pypi?:action=browse&show=all&c=551 --> Pypi
 
 Companies
 ---------
-* http://www.b2ck.com/
-* http://www.nan-tic.com/en
-* http://openerp-online.fr/20-tryton-on-line-hebergement-gratuit.html
-* http://www.silexsistemas.com.br
-* http://www.thymbra.com
-* http://www.zikzakmedia.com/
+* http://openerp-online.fr/
+* http://sisalp.fr/ --> Toulon, France.
+* http://www.b2ck.com/ --> The company of Cédric Krier and Nicolas Évrard. Offers development and professional support for Tryton. Liége, Belgium.
+* http://www.nan-tic.com/ --> Barcelona, Catalunya.
+* http://www.silexsistemas.com.br/ --> ERPs and business solutions specilists. Works with Tryton and GNU Health, offering implementation, development and consulting services. Belo Horizonte, Brazil.
+* http://www.thymbra.com/  --> Buenos Aires, Argentina.
+* http://www.zikzakmedia.com/ --> Barcelona, Catalunya.
 
 Community WebSites
 -------------------
 * http://apps.tryton-erp.es/ --> Initiative from Catalunya
-* http://www.openerp2tryton.com/ --> Initiative from Catalunya
+* http://www.openerp2tryton.com/ --> Initiative from Catalunya, explaining how to migrate from OpenERP to Tryton.
 * http://www.tryton-latam.com/ --> Thymbra guys!!! --> Very beautifull but not updated. 
 
 Documentations
@@ -57,12 +58,14 @@ Events Past and Present (Chronological Order)
 
 Forums
 ------
+* http://groups.tryton.org/ --> Official discussion Group on Google Groups
 * http://stackoverflow.com/questions/tagged/tryton
 
 News
 ----
 * http://socrates.io/#1ZLEBcO
-* http://blog.thymbra.com/2014/11/tryton-version-34.html
+* 25/11/2014 - http://blog.thymbra.com/2014/11/tryton-version-34.html
+* 17/06/2011 - http://version2beta.com/articles/evaluating-tryton-as-an-ecommerce-backend_stalking-the-tryton-community/
 
 Presentations
 -------------
