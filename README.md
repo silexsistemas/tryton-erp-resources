@@ -65,6 +65,7 @@ News
 ----
 * http://socrates.io/#1ZLEBcO
 * 25/11/2014 - http://blog.thymbra.com/2014/11/tryton-version-34.html
+* 05/06/2011 - http://version2beta.com/articles/evaluating-tryton-as-an-ecommerce-backend_about-tryton/
 * 17/06/2011 - http://version2beta.com/articles/evaluating-tryton-as-an-ecommerce-backend_stalking-the-tryton-community/
 
 Presentations
