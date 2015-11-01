@@ -25,7 +25,7 @@ Code
 ----
 * https://bitbucket.org/tryton/ --> Official Bitbucket Mirror
 * https://github.com/tryton --> Unofficial Github Mirror
-* https://pypi.python.org/pypi/tryton --> Pypi
+* https://pypi.python.org/pypi?:action=browse&show=all&c=551 --> Pypi
 
 Companies
 ---------
