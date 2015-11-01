@@ -1,4 +1,4 @@
-# ryton-erp-resources
+# tryton-erp-resources
 List of Resources About Tryton
 
 About Tryton
