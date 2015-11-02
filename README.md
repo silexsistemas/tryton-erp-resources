@@ -21,6 +21,11 @@ Official Website
 ----------------
 * http://www.tryton.org/
 
+Official BugTracker and Codereview
+----------------------------------
+* http://bugs.tryton.org/
+* https://tryton-rietveld.appspot.com/
+
 Code
 ----
 * http://hg.tryton.org/ --> Official Mercurial Repository. Contains most of Tryton code, such as Tryton server (trytond), Tryton GTK client (tryton), Tryton webclient (sao), modules, Proteus, and more. Definetely the first place to go when you are looking for source code.
@@ -47,6 +52,7 @@ Community WebSites
 
 Documentations
 --------------
+* http://docs.tryton.org/ --> Official Documentation for Tryton and its modules. If looking for a specific version, just add its number to the end of the address (e.g.: http://docs.tryton.org/3.2 for version 3.2). If no version is specified, it redirects to the most recent.
 * https://nereid.readthedocs.org/en/develop/ --> What happened to OpenLabs? http://openlabs.co.in/ is blank
 * http://tryton-administration-manual.readthedocs.org/en/latest/
 * http://tryton-documentation.readthedocs.org/en/latest/
@@ -57,10 +63,19 @@ Events Past and Present (Chronological Order)
 * http://tul2014.tryton.org/ --> Tryton Unconference 2014
 * http://tuba2015.tryton.org/ --> Tryton Unconference 2015
 
-Forums
-------
-* http://groups.tryton.org/ --> Official discussion Group on Google Groups
-* http://stackoverflow.com/questions/tagged/tryton
+Forums and Mailing Lists
+-------------------------
+* http://groups.tryton.org/ --> Official mail group on Google Groups (English). Discusses general questions, specially those related to functionalities.
+* http://groups-ca.tryton.org/ --> Idem in Catalan
+* http://groups-de.tryton.org/ --> Idem in German
+* http://groups-es.tryton.org/ --> Idem in Spanish
+* http://groups-fr.tryton.org/ --> Idem in French
+* http://groups-ru.tryton.org/ --> Idem in Russian
+* http://groups-dev.tryton.org/ --> Official mail group for Tryton development
+* http://groups-announce.tryton.org/ --> Official mail group for general announcements, specifically releases of new versions.
+* http://groups-commit.tryton.org/ --> Official mail group for new commits.
+* http://groups-contrib.tryton.org/ --> Official mail group for contributions related to Tryton but not about its core development or its official modules.
+* http://stackoverflow.com/questions/tagged/tryton --> Questions on Stackoverflow marked as Tryton.
 
 News
 ----
