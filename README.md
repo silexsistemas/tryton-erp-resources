@@ -24,7 +24,7 @@ Official Website
 Official BugTracker and Codereview
 ----------------------------------
 * http://bugs.tryton.org/
-* https://tryton-rietveld.appspot.com/
+* https://codereview.tryton.org/
 
 Code
 ----
