@@ -97,6 +97,10 @@ Translations
 * http://pootle.tryton.org/ --> Official Pootle Translation Server
 * https://www.transifex.com/meanmicio/Tryton/ --> Unofficial Transifex Translation
 
+Tools
+-----
+* https://bitbucket.org/cedk/hgnested --> hg nested extension to Mercurial allows to work with subrepositories. Must have to work with Tryton, because every module is a subrepo, so it is very tedious to clone them all by and.
+
 Twitter
 -------
 * @albertnan --> Albert Cervera y Areny: Board member of Tryton Foundation & co-owner of NaN·tic.
