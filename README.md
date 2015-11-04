@@ -37,8 +37,9 @@ Code
 Companies
 ---------
 * http://openerp-online.fr/
-* http://sisalp.fr/ --> Toulon, France.
+* http://sisalp.fr/ --> Toulon, France.* 
 * http://www.b2ck.com/ --> The company of Cédric Krier and Nicolas Évrard. Offers development and professional support for Tryton. Liége, Belgium.
+* http://www.gcoop.coop/ --> Software development coperative work.
 * http://www.nan-tic.com/ --> Barcelona, Catalunya.
 * http://www.silexsistemas.com.br/ --> ERPs and business solutions specilists. Works with Tryton and GNU Health, offering implementation, development and consulting services. Belo Horizonte, Brazil.
 * http://www.thymbra.com/  --> Buenos Aires, Argentina.
@@ -106,6 +107,7 @@ Twitter
 * @albertnan --> Albert Cervera y Areny: Board member of Tryton Foundation & co-owner of NaN·tic.
 * @brunovillasanti --> Bruno Villasanti: Developer at Thymbra
 * @cedrickrier --> Cédric Krier: Tryton leader, Python and Gentoo developer
+* @gcooplibre --> Gcoop
 * @nan_tic --> Nan-Tic: Catalunian company dedicated to Tryton ERP and other open source solutions.
 * @nicoe --> Nicolas Évrard: Developer at B2CK and one of the main mantainers of Tryton.
 * @meanmicio --> Luis Falcón: Creator of GNU Health. Doctor and computer scientist.
