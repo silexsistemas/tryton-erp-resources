@@ -26,6 +26,10 @@ Official BugTracker and Codereview
 * http://bugs.tryton.org/
 * https://codereview.tryton.org/
 
+Demo Server
+-----------
+http://demo.tryton.org/ --> Demo server. It redirects you to the latest version number (for example, you would be redirected to http://demox.y.tryton.org/ for version x.y). It can be accessed directly on the browser now, thanks to sao. It can also be used with the desktop client.
+
 Code
 ----
 * http://hg.tryton.org/ --> Official Mercurial Repository. Contains most of Tryton code, such as Tryton server (trytond), Tryton GTK client (tryton), Tryton webclient (sao), modules, Proteus, and more. Definetely the first place to go when you are looking for source code.
