@@ -34,6 +34,8 @@ Code
 ----
 * http://hg.tryton.org/ --> Official Mercurial Repository. Contains most of Tryton code, such as Tryton server (trytond), Tryton GTK client (tryton), Tryton webclient (sao), modules, Proteus, and more. Definetely the first place to go when you are looking for source code.
 * https://bitbucket.org/tryton/ --> Official Bitbucket Mirror
+* https://bitbucket.org/silex/tryton-publico --> Modules developed by Sílex Sistemas, mainly for Brazilian localization
+* https://bitbucket.org/trytonspain/ --> Modules developed by Spanish an Catalunyan communities of Tryton. Lots of interesting stuff!
 * http://git.tryton.org/ --> Official git repository. Contais the code for building Tryton client on Windows.
 * https://github.com/tryton --> Unofficial Github Mirror
 * https://pypi.python.org/pypi?:action=browse&show=all&c=551 --> Pypi
