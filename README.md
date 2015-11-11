@@ -62,6 +62,7 @@ Documentations
 * http://docs.tryton.org/ --> Official Documentation for Tryton and its modules. If looking for a specific version, just add its number to the end of the address (e.g.: http://docs.tryton.org/3.2 for version 3.2). If no version is specified, it redirects to the most recent.
 * https://nereid.readthedocs.org/en/develop/ --> What happened to OpenLabs? http://openlabs.co.in/ is blank
 * http://tryton-administration-manual.readthedocs.org/en/latest/
+* http://tryton-ar.readthedocs.org/es/latest/index.html --> Documentation mainly about Argentinian modules and localization.
 * http://tryton-documentation.readthedocs.org/en/latest/
 
 Events Past and Present (Chronological Order)
