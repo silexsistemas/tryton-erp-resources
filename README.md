@@ -95,6 +95,7 @@ News
 Presentations
 -------------
 * http://pt.slideshare.net/NaN-tic/tryton
+* http://www.tryton.org/papers.html --> The conferences presentations
 
 Projects
 --------
