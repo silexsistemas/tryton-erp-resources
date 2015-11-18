@@ -130,6 +130,8 @@ Twitter
 
 Videos
 ------
+* http://videos.tryton.org/tub2013/ --> Tryton Unconference Barcelona 2013
+* http://videos.tryton.org/tul2014/ --> Tryton Unconference Leipzig 2014
 * https://www.youtube.com/watch?v=9bJuEy2fHwQ --> What is Tryton Platform and ERP?
 * https://www.youtube.com/watch?v=U-KvBorDXwM&index=3&list=PLWXFVIWufRrrfbiLbtK95WnUXcBjCc2QD --> Latinoware 2015 - Medicina Social e Saúde Pública - Presentation about Tryton and GNU Health.
 * https://www.youtube.com/watch?v=B0Uf9XOzwHg&index=1&list=PLWXFVIWufRrrfbiLbtK95WnUXcBjCc2QD --> Luis Falcon on MIT about GNU Health
