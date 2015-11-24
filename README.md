@@ -112,6 +112,7 @@ Tools
 
 Twitter
 -------
+* @truton_org --> Official Tryton Foundation Twitter
 * @albertnan --> Albert Cervera y Areny: Board member of Tryton Foundation & co-owner of NaN·tic.
 * @brunovillasanti --> Bruno Villasanti: Developer at Thymbra
 * @cedrickrier --> Cédric Krier: Tryton leader, Python and Gentoo developer
@@ -138,7 +139,8 @@ Videos
 
 Wikis
 -----
+* https://en.wikibooks.org/wiki/Tryton --> Wiki book being created by the community
 * https://en.wikipedia.org/wiki/Tryton --> Wikipedia Article
 * https://code.google.com/p/tryton/wiki/TableOfContents --> Archived and Read Only
-* http://wiki.silexsistemas.com.br/
+* http://wiki.silexsistemas.com.br/ --> Documentation in Portuguese created by Sílex Sistemas and Brazilian users.
 * http://wiki.tryton-erp.es/
